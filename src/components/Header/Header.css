@@ -111,3 +111,9 @@ nav ul li a:hover{
         padding-right: 45px;
     }
 }
+
+@media(min-width: 300px){
+    label.logo{
+        font-size: 20px;
+    }
+}
