@@ -10,7 +10,7 @@ export default class Contact extends Component {
 
                     <div className="icon">
                         <h3>GitHub</h3>
-                        <i className="fab fa-github"></i>
+                        <i className="fab fa-github-square"></i>
                     </div>
                     <div className="icon">
                         <h3>Linkedin</h3>
@@ -19,6 +19,10 @@ export default class Contact extends Component {
                     <div className="icon">
                         <h3>Email</h3>
                         <i className="far fa-envelope"></i>
+                    </div>
+                    <div className="icon">
+                        <h3>Twitter</h3>
+                        <i className="fab fa-twitter-square"></i>
                     </div>
                 </div>
             </div>

@@ -1,5 +1,5 @@
 .contact{
-    width: 50%;
+    width: 70%;
     margin: auto;
     padding-bottom:20px;
     color: white;
@@ -18,10 +18,13 @@
     display: flex;
     justify-content: space-evenly;
     flex-direction: column;
-
 }
 
 .contact-icon .icon{
     text-align: center;
     margin-bottom: 25px;
+}
+
+.icon i{
+    font-size: xx-large;
 }
