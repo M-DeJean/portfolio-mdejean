@@ -111,8 +111,3 @@ nav ul li a:hover{
         padding-right: 45px;
     }
 }
-
-section{
-    background: url(../../images/what-the-hex-dark.png) repeat;
-    height: calc(100vh - 80px);
-}

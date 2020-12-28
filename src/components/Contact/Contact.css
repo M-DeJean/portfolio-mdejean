@@ -1,0 +1,27 @@
+.contact{
+    width: 50%;
+    margin: auto;
+    padding-bottom:20px;
+    color: white;
+    line-height: 25px;
+}
+
+.contact h2{
+    margin-bottom: 50px;
+}
+
+.contact h3{
+    color: white;
+}
+
+.contact-icon{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+
+}
+
+.contact-icon .icon{
+    text-align: center;
+    margin-bottom: 25px;
+}

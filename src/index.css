@@ -10,6 +10,13 @@ body {
   font-family: 'Montserrat', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url(./images/what-the-hex-dark.png) repeat;
+  height: calc(100vh - 80px);
+}
+
+body h2{
+  font-size: 28px;
+  text-decoration: underline gray;
 }
 
 

@@ -5,6 +5,10 @@
     padding: 70px 0px;
     box-sizing: border-box;
     background-color: #18181a;
+    bottom: 0px;
+    position: static;
+    color: white;
+    text-align: center;
 }
 
 .inner-footer{

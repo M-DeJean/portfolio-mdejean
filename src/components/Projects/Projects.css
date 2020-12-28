@@ -1,0 +1,70 @@
+.projects{
+    color: white;
+    width: 50%;
+    margin: 100px auto;
+}
+
+.project-list{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    line-height: 25px;
+}
+
+.project{
+    margin: 50px 0px;
+}
+
+.project i{
+    margin-top: 10px;
+}
+.project:last-child{
+    margin-bottom: 0px;
+}
+
+ .project#spaced img{
+    width: 599px;
+     height: 380px;
+     margin: 20px 0px;
+     border: 2px solid gray;
+}
+
+.project#spaced img:hover{
+    border: 2px solid white;
+}
+
+ .project#gofish img{
+     width: 599px;
+     height: 380px;
+     margin: 20px 0px;
+     border: 2px solid gray;
+}
+
+.project#gofish img:hover{
+    border: 2px solid white;
+}
+
+ .project#techfighter img{
+    width: 599px;
+     height: 380px;
+     margin: 20px 0px;
+     border: 2px solid gray;
+}
+
+.project#techfighter img:hover{
+    border: 2px solid white;
+}
+.project .landscape i{
+    padding-left: 100px;
+}
+
+.project .landscape{
+    width: 200px;
+    height: 127px;
+}
+
+.project .portrait{
+    width: 92px;
+    height: 200px;
+}
+
