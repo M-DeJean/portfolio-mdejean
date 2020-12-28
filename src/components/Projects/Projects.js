@@ -31,7 +31,7 @@ export default class Projects extends Component {
                         <h3>Spaced Repetition</h3>
                         <a href="https://spaced-repetition-beryl.vercel.app/" target="_blank" rel="noopener noreferrer"><img src={spaced} alt="spaced repetition app" /></a>
                         <p>
-                            A langage learning app that teaches users Portuguese by using the spaced repetition technique. Built with HTML, CSS, JavaScript, React, Node, and Express
+                            A language learning app that teaches users Portuguese by using the spaced repetition technique. Built with HTML, CSS, JavaScript, React, Node, and Express
                         </p>
                         <a href="https://github.com/M-DeJean/spaced-repetition" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a>
                     </div>
