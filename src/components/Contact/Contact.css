@@ -25,6 +25,21 @@
     margin-bottom: 25px;
 }
 
+.contact-icon a{
+    color: white;
+}
+
+.contact-icon a:hover{
+    color: gray;
+    transition: .5s;
+}
+
 .icon i{
     font-size: xx-large;
+}
+
+@media(max-width: 600px){
+    .contact{
+        width: 80%;
+    }
 }
