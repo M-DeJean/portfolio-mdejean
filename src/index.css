@@ -1,3 +1,4 @@
+/* Applies to all elements */
 *{
   margin: 0;
   padding: 0;
@@ -5,6 +6,7 @@
   text-decoration: none;
 }
 
+/* Applying google font and repeating background to entire page */
 body {
   margin: 0;
   font-family: 'Montserrat', sans-serif;
@@ -14,11 +16,14 @@ body {
   height: calc(100vh - 80px);
 }
 
+/* Changing font size for h2 tags and adding decoration */
 body h2{
   font-size: 28px;
   text-decoration: underline gray;
 }
 
+
+/* mobile styling for links to remove decoration */
 @media(max-width: 600px){
 
   a{

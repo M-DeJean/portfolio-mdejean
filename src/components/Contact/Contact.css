@@ -29,15 +29,18 @@
     color: white;
 }
 
+/* Contact icons will change color when hovered over */
 .contact-icon a:hover{
     color: gray;
     transition: .5s;
 }
 
+/* resizing fontawesome icons */
 .icon i{
     font-size: xx-large;
 }
 
+/* mobile styling */
 @media(max-width: 600px){
     .contact{
         width: 80%;
